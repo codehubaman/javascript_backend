@@ -1,0 +1,19 @@
+{
+  "name": "javascript_backend",
+  "version": "1.0.0",
+  "description": "backend codes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "code",
+    "javascript"
+  ],
+  "author": "aman patel",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
